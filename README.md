@@ -1,1 +1,2 @@
 # Live_Fire_Detection
+The Wildfire Detection and Monitoring System is an advanced machine learning project designed to detect and track wildfires in near real-time, leveraging satellite imagery and weather data. This project has been created with the aim of providing critical information to mitigate the devastating impacts of wildfires. The repository for this project is intended to be viewed by NASA personnel, showcasing the potential collaboration opportunities between the project creators and NASA's Earth Science Division.
